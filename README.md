@@ -15,7 +15,7 @@
 
 1. Клонирование репозитория
 ```
-git clone https://github.com/your-name/url-shortener.git
+git clone https://github.com/Elfreezy/url-shortener.git
 cd url-shortener
 ```
 
